@@ -48,7 +48,7 @@ export const darkColors: Colors = {
   ...additionalColors,
   secondary: "#9A6AFF",
   background: "#08060B",
-  backgroundDisabled: "#3c3742",
+  backgroundDisabled: "#242325",
   backgroundAlt: "#131519",
   cardBorder: "#383241",
   contrast: "#FFFFFF",
